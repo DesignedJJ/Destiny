@@ -3,7 +3,7 @@
 import os
 import openai
 
-openai.api_key = os.getenv("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")
+openai.api_key = os.getenv("sample api-XQLKZqiP2m6k1t_RqF1u-gET5rag6ZrxS8gLJHM9RPAxTHm9sampleapi")
 
 SYSTEM_PROMPT = """
 You are an AI assistant for a healthcare insurance company. 
